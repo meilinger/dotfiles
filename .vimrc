@@ -13,7 +13,7 @@ filetype plugin indent on
 set number
 set expandtab
 set list
-set shiftwidth=2
-set tabstop=2
-set softtabstop=2
+set shiftwidth=4
+set tabstop=4
+set softtabstop=4
 nnoremap <silent> t :NERDTreeToggle<CR>
